@@ -1,4 +1,6 @@
 #coding:utf-8
+#for web elements css path
+
 
 class MainCssPath():
     USERNAME='9@qq.com'
