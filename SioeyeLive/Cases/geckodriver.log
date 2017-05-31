@@ -1,13 +1,14 @@
-1495789349438	geckodriver	INFO	Listening on 127.0.0.1:35963
-1495789351426	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.ffNl2wFYA459
-1495789351433	geckodriver::marionette	INFO	Starting browser D:\FilreFox\firefox.exe
-1495789351460	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35975
-1495789356158	Marionette	INFO	Listening on port 35975
-1495789356679	Marionette	WARN	TLS certificate errors will be ignored for this session
-1495789370816	Marionette	INFO	New connections will no longer be accepted
-346
-1495789324018	Marionette	WARN	TLS certificate errors will be ignored for this session
-1495789334738	Marionette	INFO	New connections will no longer be accepted
+1496196202428	geckodriver	INFO	Listening on 127.0.0.1:39661
+1496196204431	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.x1fcA8R58YVD
+1496196204442	geckodriver::marionette	INFO	Starting browser D:\FilreFox\firefox.exe
+1496196204467	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39691
+1496196209032	Marionette	INFO	Listening on port 39691
+1496196209687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496196216644	Marionette	INFO	New connections will no longer be accepted
+46
+1496196195123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496196202227	Marionette	INFO	New connections will no longer be accepted
+
 
 ###!!! [Parent][MessageChannel] Error: (msgtype=0x40000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
 
